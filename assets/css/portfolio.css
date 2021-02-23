@@ -1,0 +1,101 @@
+body{
+    font-family: bullen,serif;
+    font-weight: 400;
+    font-style: normal;
+    padding:0;
+    font-size: 20px;
+    background-color: black;
+}
+
+
+.card{
+    text-align: center;
+    background-color: transparent;
+}
+
+#introPic{
+    height:auto;
+}
+
+a{
+    color: wheat;
+}
+a:hover{
+    color: white;
+}
+
+#brand{
+    color:white;
+}
+.sticky-top{
+    background-color: black;
+}
+
+.heading{
+    padding-top: 30px;
+}
+
+.container-fluid{
+    padding:0;
+}
+
+.card-img-top{
+    width: 80%;
+    margin-left: 15%;
+}
+
+.links{
+    font-size: 20px;
+    color: white;
+}
+
+.links:hover{
+    background-color: wheat;
+    color:black;
+}
+
+.row{
+    width: 100%; 
+    padding: 0;
+    margin: 0;
+}
+
+
+#about{
+    font-size: 20px;
+    margin-top: 5%;
+    padding-left: 5%;
+    margin-bottom: 5%;
+}
+
+
+h5{
+    margin-left: 15%;
+    color: wheat;
+    font-size: 25px;
+}
+
+.card-footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.about_pic{
+    padding-top: 10%;
+}
+
+
+p{
+    color: white; 
+}
+
+strong{
+    color: wheat;
+}
+
+
+.container-fluid{
+    padding:0;
+}
+
